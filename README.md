@@ -4,7 +4,7 @@
 
 ---
 
-<img alt="PyPI - Java Version" src="https://img.shields.io/badge/python%20-green"> 
+<img alt="PyPI - Java Version" src="https://img.shields.io/badge/java%20-green"> 
 
 <p>
 <img src = "OSS.PNG">
@@ -13,7 +13,7 @@
 <h1>Table of Content</h1>
 
 - [Introduction](#introduction)
-- [ER diagram of the system](#er-diagram-of-the-system)
+- [Class diagram of the system](#er-diagram-of-the-system)
 - [Technology Stack](#technology-stack)
 - [Running](#installations-and-running)
 - [Contributors](#contributors)
@@ -21,25 +21,22 @@
 
 
 ## Introduction
-
 ---
+-It helps the individual shopkeepers spread their business through the portal.
+-To help the customers shop online with a variety of clothes with no need to go out for shopping.
 
-
----
 
 ## Class diagram of the system
 ---
 <img src = "class diagram.jpg">
 
 ## Technology Stack
-
 ---
 
 - Java
 - Netbeans
 
 ## Running
-
 ---
 
 - Clone this repository
@@ -50,7 +47,7 @@
  
 - Here the main java file is 
   ```
-  path
+  path src\projectshopping\LoadScreen.java
   ```
 - In this project we had used MySQL database. whose connections are written here.
     ```
