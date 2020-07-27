@@ -29,7 +29,7 @@
 
 ## ER diagram of the system
 ---
-<img src = "ER.png">
+<img src = "Class Diagram.jpg">
 
 ## Technology Stack
 
