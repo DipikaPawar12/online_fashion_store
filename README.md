@@ -13,9 +13,9 @@
 <h1>Table of Content</h1>
 
 - [Introduction](#introduction)
-- [Class diagram of the system](#er-diagram-of-the-system)
+- [Class diagram of the system](#class-diagram-of-the-system)
 - [Technology Stack](#technology-stack)
-- [Running](#installations-and-running)
+- [Running](#running)
 - [Contributors](#contributors)
 
 
