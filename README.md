@@ -4,10 +4,10 @@
 
 ---
 
-<img alt="PyPI - Java Version" src="https://img.shields.io/badge/java%20-green"> 
+<img alt="PyPI - Java Version 8" src="https://img.shields.io/badge/java%20-green"> 
 
 <p>
-<img src = "OSS.PNG">
+<img src = "front screen.PNG">
 </p>
 
 <h1>Table of Content</h1>
