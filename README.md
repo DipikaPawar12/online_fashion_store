@@ -4,7 +4,7 @@
 
 ---
 
-<img alt="PyPI - Java Version 8" src="https://img.shields.io/badge/java%20-green"> 
+<img alt="PyPI - Java Version 8" src="https://img.shields.io/badge/java%20-8-green"> 
 
 <p>
 <img src = "front screen.PNG">
