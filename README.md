@@ -22,8 +22,8 @@
 
 ## Introduction
 ---
--It helps the individual shopkeepers spread their business through the portal.
--To help the customers shop online with a variety of clothes with no need to go out for shopping.
+- It helps the individual shopkeepers spread their business through the portal.
+- To help the customers shop online with a variety of clothes with no need to go out for shopping.
 
 
 ## Class diagram of the system
